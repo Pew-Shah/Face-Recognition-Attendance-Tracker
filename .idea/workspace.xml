@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="113dde6f-fcac-420e-9826-938a70c1b8b8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Face-Recognition-Attendance-Tracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Face-Recognition-Attendance-Tracker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddDataToDb.py" beforeDir="false" afterPath="$PROJECT_DIR$/AddDataToDb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EncodeFile.p" beforeDir="false" afterPath="$PROJECT_DIR$/EncodeFile.p" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/321654.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/852741.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/898999.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +25,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AddDataToDb.executor": "Run",
-    "Python.EncodeGenerator.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AddDataToDb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EncodeGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
