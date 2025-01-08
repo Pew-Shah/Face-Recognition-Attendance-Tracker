@@ -2,7 +2,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
-cred = credentials.Certificate(r"C:\Users\Genius\Desktop\Attendance System\serviceAccountKey.json")
+cred = credentials.Certificate("serviceAccountKey.json")
 
 firebase_admin.initialize_app(cred,{
     'databaseURL': "https://adr-reporting-a3c17-default-rtdb.firebaseio.com/"
