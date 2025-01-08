@@ -11,10 +11,10 @@ firebase_admin.initialize_app(cred,{
 ref = db.reference('Students')
 
 data = {
-    "321654":
+    "963852":
         {
-            "name": "Abc Efg",
-            "id" : 321654,
+            "name": "Elon Musk",
+            "id" : 963852,
             "standing": 4,
             "major": "Robotics",
             "starting_year": 2017,
